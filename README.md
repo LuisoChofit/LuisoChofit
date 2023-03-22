@@ -5,4 +5,4 @@ Soy técnico en sistemas de telecomunicaciones desde hace 4 años y estoy empeza
 
 Empecé trabajando de técnico de sistemas en empresas de seguridad y en 2022 decidí aprender a programar y entrar en el mundo de la ciencia de datos. Así que me inicié estudiando este campo en [**Practicum**](https://practicum.com).
 
-(https://www.um.es/jovenesrsme2015/images/logo-upct.gif) Al mismo tiempo estoy estudiando el Grado en Ingeniería de Sistemas de Telecomunicación en la Universidad Politécnica de Cartagena.
+[!(https://www.um.es/jovenesrsme2015/images/logo-upct.gif)] Al mismo tiempo estoy estudiando el Grado en Ingeniería de Sistemas de Telecomunicación en la Universidad Politécnica de Cartagena.
